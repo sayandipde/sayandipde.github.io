@@ -67,7 +67,7 @@ Closed-Loop Control Systems,&quot; <i>In Design, Automation and Test in Europe C
 
 <font face="helvetica" size="3"> 
 
-<p>[C1]. S. Ghosh, S. De, S. P. Maity and H. Rahaman, &quot;A novel dual purpose spatial domain algorithm for digital image watermarking and cryptography using Extended Hamming Code,,&quot; <i>2nd International Conference on Electrical Information and Communication Technologies (EICT)<i>, 2015.
+<p>[C1] S. Ghosh, S. De, S. P. Maity and H. Rahaman, <b>A novel dual purpose spatial domain algorithm for digital image watermarking and cryptography using Extended Hamming Code<b>, <i>International Conference on Electrical Information and Communication Technologies (EICT)<i>, 2015.</p>
 </font><br>
 
 
