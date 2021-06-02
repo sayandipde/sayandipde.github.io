@@ -18,7 +18,7 @@ p { margin-bottom: 0px; }
 
 
 <font face="helvetica" color="#A93226" size="4">
-<p>Journals</p></font>
+<p>2021</p></font>
 
 <font face="helvetica" size="3"> 
 
@@ -62,6 +62,13 @@ Closed-Loop Control Systems,&quot; <i>In Design, Automation and Test in Europe C
 
 </font><br>
 
+<font face="helvetica" color="#A93226" size="4">
+<p>2015</p></font>
+
+<font face="helvetica" size="3"> 
+
+<p>[C1]. S. Ghosh, S. De, S. P. Maity and H. Rahaman, &quot;A novel dual purpose spatial domain algorithm for digital image watermarking and cryptography using Extended Hamming Code,,&quot; <i>2nd International Conference on Electrical Information and Communication Technologies (EICT)<i>, 2015.
+</font><br>
 
 
 <font face="helvetica" color="#A93226" size="4">
